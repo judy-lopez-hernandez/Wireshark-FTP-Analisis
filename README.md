@@ -2,8 +2,10 @@
 ### Objetivo
 Evaluar una captura de red para determinar la posible existencia de un incidente relacionado al protocolo FTP utilizando la herramienta Wireshark
 ### Herramientas
-Wireshark
-Archivo PCAP
+<ul>
+ <li>Wireshark</li>
+ <li>Archivo PCAP</li>
+ </ul> 
 ### Hallazgos y análisis
 <ul>
   <li>Se determino el hallazgo de trafico FTP</li>

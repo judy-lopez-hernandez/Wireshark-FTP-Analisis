@@ -1,7 +1,6 @@
 
-#(FTP — Investigación y análisis de tráfico de red)
+#FTP — Investigación y análisis de tráfico de red
  
-</p>
 ### Objetivo
 Evaluar una captura de red para determinar la posible existencia de un incidente relacionado al protocolo FTP utilizando la herramienta Wireshark
 ### Herramientas

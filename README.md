@@ -1,4 +1,7 @@
-# FTP — Investigación y análisis de tráfico de red
+
+<p style="color:blue"># FTP — Investigación y análisis de tráfico de red</p>
+ 
+</p>
 ### Objetivo
 Evaluar una captura de red para determinar la posible existencia de un incidente relacionado al protocolo FTP utilizando la herramienta Wireshark
 ### Herramientas
@@ -17,4 +20,4 @@ Evaluar una captura de red para determinar la posible existencia de un incidente
 </ul>
 
 ### Conclusión
-Aprendí que el protocolo FTP transmite los datos sin ningún tipo de cifrado, por lo que, al analizar una captura de red, es posible visualizar información sensible como nombres de usuario, contraseñas y los comandos ejecutados.
+Se concluyo que el protocolo FTP transmite los datos sin ningún tipo de cifrado, por lo que, al analizar una captura de red, es posible visualizar información sensible como nombres de usuario, contraseñas y los comandos ejecutados.

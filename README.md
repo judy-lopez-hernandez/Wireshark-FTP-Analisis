@@ -1,5 +1,5 @@
 
-<p style="color:blue"># FTP — Investigación y análisis de tráfico de red</p>
+<p style="color:blue">FTP — Investigación y análisis de tráfico de red</p>
  
 </p>
 ### Objetivo
